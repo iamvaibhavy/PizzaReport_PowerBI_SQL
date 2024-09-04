@@ -2,7 +2,7 @@
 
 The "Pizza Sales" project is a comprehensive analysis of a pizza store's operational data from the year 2015. The dataset, originally in CSV format, has been systematically migrated to and integrated within a MySQL server to enhance the efficiency of querying and analysis. The project's primary objective is to derive key performance indicators (KPIs) and actionable insights from the data, providing a solid foundation for strategic decision-making within the pizza business.
 
-###About the Project:
+### About the Project:
 1. Data Gathering and Integration:
    The project commences with the collection of a CSV-formatted dataset, encompassing comprehensive details on the pizza store's transactions, products, customers, orders, and sales. This 
    dataset is subsequently transferred to a MySQL server, ensuring data integrity and structured storage for efficient querying and analysis.
